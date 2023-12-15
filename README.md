@@ -21,9 +21,9 @@ numpy~=1.24.2
 Usage
 To run the Laptop Price Prediction System:
 
-bash
-Copy code
+```bash
 streamlit run laptop_price_predictor.py
+
 This opens a web interface allowing users to input laptop specifications and receive a predicted price range.
 
 Machine Learning Algorithms
